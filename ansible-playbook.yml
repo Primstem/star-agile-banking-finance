@@ -13,4 +13,4 @@
     command : sudo systemctl start docker
 
   - name: Deploy Docker Container
-    command: docker run -itd -p 8084:8081 primstem/bank_app_img:1.0
+    command: docker run -itd -p 8084:8081 primstem/bank_app_img:v1.0
