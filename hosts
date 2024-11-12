@@ -1,2 +1,0 @@
-[test_server]
-Test_Sever ansible_ssh_host=172.31.12.14  ansible_ssh_user=user1
